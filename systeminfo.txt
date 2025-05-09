@@ -1,21 +1,21 @@
 
 
-Host Name:                 DESKTOP-OP5ESBE
+Host Name:                 DESKTOP-OSWM7XH
 OS Name:                   Microsoft Windows 10 Pro
 OS Version:                10.0.18362 N/A Build 18362
 OS Manufacturer:           Microsoft Corporation
 OS Configuration:          Standalone Workstation
 OS Build Type:             Multiprocessor Free
-Registered Owner:          EsDV2t
+Registered Owner:          dEVkUV
 Registered Organization:   
 Product ID:                00330-80116-64225-AA028
 Original Install Date:     9/5/2019, 1:58:29 AM
-System Boot Time:          5/9/2025, 1:52:48 AM
+System Boot Time:          5/9/2025, 4:01:22 AM
 System Manufacturer:       Dell Inc.
 System Model:              OptiPlex 7010
 System Type:               x64-based PC
 Processor(s):              1 Processor(s) Installed.
-                           [01]: Intel64 Family 6 Model 42 Stepping 1 GenuineIntel ~2400 Mhz
+                           [01]: Intel64 Family 6 Model 42 Stepping 1 GenuineIntel ~2600 Mhz
 BIOS Version:              Dell Inc. A21, 12/21/2015
 Windows Directory:         C:\WINDOWS
 System Directory:          C:\WINDOWS\system32
@@ -24,13 +24,13 @@ System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
 Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
 Total Physical Memory:     2,048 MB
-Available Physical Memory: 1,076 MB
+Available Physical Memory: 1,120 MB
 Virtual Memory: Max Size:  4,096 MB
-Virtual Memory: Available: 3,136 MB
-Virtual Memory: In Use:    960 MB
+Virtual Memory: Available: 3,214 MB
+Virtual Memory: In Use:    882 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
-Logon Server:              \\DESKTOP-OP5ESBE
+Logon Server:              \\DESKTOP-OSWM7XH
 Hotfix(s):                 2 Hotfix(s) Installed.
                            [01]: KB4497727
                            [02]: KB4517389
@@ -39,8 +39,8 @@ Network Card(s):           1 NIC(s) Installed.
                                  Connection Name: Ethernet
                                  DHCP Enabled:    No
                                  IP address(es)
-                                 [01]: 10.52.181.71
-                                 [02]: fe80::78e1:578b:e217:bfce
+                                 [01]: 10.34.158.179
+                                 [02]: fe80::d468:f535:9202:99be
 Hyper-V Requirements:      VM Monitor Mode Extensions: No
                            Virtualization Enabled In Firmware: No
                            Second Level Address Translation: No
