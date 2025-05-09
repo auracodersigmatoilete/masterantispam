@@ -1,50 +1,55 @@
 
 
-Host Name:                 DESKTOP-ET51AJO
+Host Name:                 WIN-5DG50Q8UMJS
 OS Name:                   Microsoft Windows 10 Pro
-OS Version:                10.0.19044 N/A Build 19044
+OS Version:                10.0.19041 N/A Build 19041
 OS Manufacturer:           Microsoft Corporation
 OS Configuration:          Standalone Workstation
 OS Build Type:             Multiprocessor Free
-Registered Owner:          Bruno
+Registered Owner:          Windows User
 Registered Organization:   
-Product ID:                36518-483-4170891-86056
-Original Install Date:     2/14/2024, 4:38:00 PM
-System Boot Time:          5/9/2025, 4:20:56 AM
-System Manufacturer:       QEMU
+Product ID:                00331-10000-00001-AA655
+Original Install Date:     3/1/2021, 8:49:38 PM
+System Boot Time:          5/9/2025, 6:06:58 AM
+System Manufacturer:       DDNO
 System Model:              Standard PC (Q35 + ICH9, 2009)
 System Type:               x64-based PC
-Processor(s):              1 Processor(s) Installed.
-                           [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2800 Mhz
-BIOS Version:              SeaBIOS rel-1.16.3-4-g163fd9f0-dirty-20240307_191320-cape-base, 11/3/2018
+Processor(s):              2 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 94 Stepping 3 GenuineIntel ~2304 Mhz
+                           [02]: Intel64 Family 6 Model 94 Stepping 3 GenuineIntel ~2304 Mhz
+BIOS Version:              SeaBIOS seabios-1.16.0-3.el9-0-g9720191-dirty-20220611_205454-capetown, 12/2/2019
 Windows Directory:         C:\Windows
 System Directory:          C:\Windows\system32
 Boot Device:               \Device\HarddiskVolume1
 System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
-Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
-Total Physical Memory:     4,195 MB
-Available Physical Memory: 3,046 MB
-Virtual Memory: Max Size:  5,667 MB
-Virtual Memory: Available: 4,569 MB
-Virtual Memory: In Use:    1,098 MB
+Time Zone:                 (UTC+03:00) Istanbul
+Total Physical Memory:     2,047 MB
+Available Physical Memory: 877 MB
+Virtual Memory: Max Size:  3,327 MB
+Virtual Memory: Available: 1,753 MB
+Virtual Memory: In Use:    1,574 MB
 Page File Location(s):     C:\pagefile.sys
 Domain:                    WORKGROUP
-Logon Server:              \\DESKTOP-ET51AJO
-Hotfix(s):                 4 Hotfix(s) Installed.
-                           [01]: KB5004331
-                           [02]: KB5003791
-                           [03]: KB5006670
-                           [04]: KB5005699
-Network Card(s):           1 NIC(s) Installed.
-                           [01]: Intel(R) 82574L Gigabit Network Connection
-                                 Connection Name: Ethernet
+Logon Server:              \\WIN-5DG50Q8UMJS
+Hotfix(s):                 2 Hotfix(s) Installed.
+                           [01]: KB4586864
+                           [02]: KB4586781
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: TAP-Windows Adapter V9
+                                 Connection Name: Local Area Connection
                                  DHCP Enabled:    Yes
-                                 DHCP Server:     172.16.1.1
+                                 DHCP Server:     10.185.162.254
                                  IP address(es)
-                                 [01]: 172.16.1.5
-                                 [02]: fe80::c1c8:8071:f76d:2b4e
-Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
-                           Virtualization Enabled In Firmware: Yes
-                           Second Level Address Translation: Yes
+                                 [01]: 10.185.162.8
+                                 [02]: fe80::295d:4853:56da:e9e
+                           [02]: Red Hat VirtIO Ethernet Adapter
+                                 Connection Name: EtherNew
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.122.121
+                                 [02]: fe80::452a:93f:5b7e:b966
+Hyper-V Requirements:      VM Monitor Mode Extensions: No
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: No
                            Data Execution Prevention Available: Yes
