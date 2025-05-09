@@ -1,46 +1,47 @@
 
 
-Host Name:                 DESKTOP-ET51AJO
+Host Name:                 DESKTOP-OP5ESBE
 OS Name:                   Microsoft Windows 10 Pro
-OS Version:                10.0.19044 N/A Build 19044
+OS Version:                10.0.18362 N/A Build 18362
 OS Manufacturer:           Microsoft Corporation
 OS Configuration:          Standalone Workstation
 OS Build Type:             Multiprocessor Free
-Registered Owner:          Bruno
+Registered Owner:          EsDV2t
 Registered Organization:   
-Product ID:                00331-10000-00001-AA468
-Original Install Date:     2/14/2024, 4:38:00 PM
-System Boot Time:          2/23/2025, 2:58:50 PM
-System Manufacturer:       1yLRlWYUEf8G7lx
-System Model:              lHW3EgAZ
+Product ID:                00330-80116-64225-AA028
+Original Install Date:     9/5/2019, 1:58:29 AM
+System Boot Time:          5/9/2025, 1:52:48 AM
+System Manufacturer:       Dell Inc.
+System Model:              OptiPlex 7010
 System Type:               x64-based PC
-Processor(s):              2 Processor(s) Installed.
-                           [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2800 Mhz
-                           [02]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2800 Mhz
-BIOS Version:              RWVFY YD6N3, 4/1/2014
-Windows Directory:         C:\Windows
-System Directory:          C:\Windows\system32
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 42 Stepping 1 GenuineIntel ~2400 Mhz
+BIOS Version:              Dell Inc. A21, 12/21/2015
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
 Boot Device:               \Device\HarddiskVolume1
 System Locale:             en-us;English (United States)
 Input Locale:              en-us;English (United States)
-Time Zone:                 (UTC-08:00) Pacific Time (US & Canada)
-Total Physical Memory:     4,195 MB
-Available Physical Memory: 3,128 MB
-Virtual Memory: Max Size:  8,547 MB
-Virtual Memory: Available: 7,701 MB
-Virtual Memory: In Use:    846 MB
+Time Zone:                 (UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna
+Total Physical Memory:     2,048 MB
+Available Physical Memory: 1,076 MB
+Virtual Memory: Max Size:  4,096 MB
+Virtual Memory: Available: 3,136 MB
+Virtual Memory: In Use:    960 MB
 Page File Location(s):     C:\pagefile.sys
-Domain:                    4povZ
-Logon Server:              \\DESKTOP-ET51AJO
-Hotfix(s):                 N/A
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-OP5ESBE
+Hotfix(s):                 2 Hotfix(s) Installed.
+                           [01]: KB4497727
+                           [02]: KB4517389
 Network Card(s):           1 NIC(s) Installed.
-                           [01]: Intel(R) 82574L Gigabit Network Connection
+                           [01]: Realtek RTL8139C+ Fast Ethernet NIC
                                  Connection Name: Ethernet
-                                 DHCP Enabled:    Yes
-                                 DHCP Server:     192.168.122.1
+                                 DHCP Enabled:    No
                                  IP address(es)
-                                 [01]: 192.168.122.101
-Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
-                           Virtualization Enabled In Firmware: Yes
-                           Second Level Address Translation: Yes
+                                 [01]: 10.52.181.71
+                                 [02]: fe80::78e1:578b:e217:bfce
+Hyper-V Requirements:      VM Monitor Mode Extensions: No
+                           Virtualization Enabled In Firmware: No
+                           Second Level Address Translation: No
                            Data Execution Prevention Available: Yes
